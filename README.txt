@@ -1,6 +1,6 @@
-# Patient Life Expectancy Prediction using Machine Learning
+#Patient Life Expectancy Prediction using Machine Learning
 
-## Project Overview
+##Project Overview
 
 This project focuses on predicting **patient life expectancy** using various **machine learning algorithms**.
 The objective is to analyze healthcare-related features and build predictive models that estimate life expectancy.
@@ -9,7 +9,7 @@ The project follows a complete **machine learning pipeline**, starting from unde
 
 ---
 
-## Project Structure
+##Project Structure
 
 MLT Practical
 │
@@ -19,27 +19,27 @@ MLT Practical
 
 ---
 
-## Practicals and Methodology
+##Practicals and Methodology
 
-### 1. Understanding the Problem Statement
+###1.Understanding the Problem Statement
 
 * Identify the objective of predicting patient life expectancy
 * Understand the dataset and target variable
 * Define the machine learning problem
 
-### 2. Data Dictionary
+###2.Data Dictionary
 
 * Study dataset attributes
 * Understand feature descriptions
 * Identify categorical and numerical variables
 
-### 3. Exploratory Data Analysis (EDA)
+###3.Exploratory Data Analysis (EDA)
 
 * Statistical analysis of the dataset
 * Data visualization
 * Identify patterns, correlations, and outliers
 
-### 4. Data Cleaning
+###4.Data Cleaning
 
 * Handle missing values
 * Remove inconsistencies
@@ -47,50 +47,50 @@ MLT Practical
 
 ---
 
-## Machine Learning Models Implemented
+##Machine Learning Models Implemented
 
-### K-Nearest Neighbors (KNN)
+###K-Nearest Neighbors (KNN)
 
 * Instance-based learning algorithm
 * Classifies data based on nearest neighbors
 
-### Naive Bayes Classifier
+###Naive Bayes Classifier
 
 * Probabilistic classifier based on **Bayes' theorem**
 * Assumes feature independence
 
-### Decision Tree
+###Decision Tree
 
 * Tree-based model used for classification
 * Splits data based on feature importance
 
-### Random Forest
+###Random Forest
 
 * Ensemble learning technique
 * Uses multiple decision trees to improve prediction accuracy
 
 ---
 
-## Ensemble Techniques
+##Ensemble Techniques
 
-### Bagging
+###Bagging
 
 * Combines predictions from multiple models
 * Reduces variance and improves stability
 
-### Boosting
+###Boosting
 
 * Sequentially trains models
 * Focuses on correcting previous errors
 
-### Stacking
+###Stacking
 
 * Combines multiple models
 * Uses a meta-model to improve predictions
 
 ---
 
-## Machine Learning Pipeline
+##Machine Learning Pipeline
 
 The project follows a structured pipeline:
 
@@ -105,7 +105,7 @@ The project follows a structured pipeline:
 
 ---
 
-## Technologies Used
+##Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -116,11 +116,12 @@ The project follows a structured pipeline:
 
 ---
 
-## Objective
+##Objective
 
 The main objective of this project is to apply **machine learning and ensemble techniques** to healthcare data in order to predict patient life expectancy and analyze the effectiveness of different algorithms.
 
 ---
+
 
 
 
