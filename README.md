@@ -13,12 +13,6 @@ The project follows a complete **Machine Learning pipeline**, starting from unde
 
 ## Project Structure
 
-``
-## Project Structure
-
-
-## Project Structure
-
 ```
 .
 ├── Practical_1.py
@@ -123,6 +117,7 @@ The main objective of this project is to apply **Machine Learning and Ensemble T
 - Predict patient life expectancy  
 - Compare different machine learning algorithms  
 - Analyze the effectiveness of ensemble models
+
 
 
 
